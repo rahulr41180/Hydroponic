@@ -1,0 +1,20 @@
+{
+  "ourservices" : [
+
+    {
+      "id" : 1,
+      "image" : "https://risehydroponics.in/wp-content/uploads/2021/04/Outdoor-Hydroponics-Farm-Setup-1.png",
+      "title" : "Outdoor Hydroponics Farm Setup",
+      "description" : "A 360 degree solution for setting up commercially profitable outdoor hydroponics farms that deliver maximum crop yield.",
+      "navigation" : "outdoorfarmsetup"
+    },
+    {
+      "id" : 2,
+      "image" : "https://risehydroponics.in/wp-content/uploads/2021/04/Indoor-Hydroponics-Farm-Setup.png",
+      "title" : "Indoor Hydroponics Farm Setup",
+      "description" : "Indoor Farms by Rise Hydroponics, raises crops In an all-round controlled environment monitored by latest technologies.",
+      "navigation" : "indoorfarmsetup"
+    } 
+
+  ]
+}
