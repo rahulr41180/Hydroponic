@@ -124,12 +124,15 @@ export const IndoorSetupBodyContainer = () => {
                 <div className="future__card">
                     <div className="card__1">
                         <img src="https://risehydroponics.in/wp-content/uploads/2017/11/icon-2.png" alt="" className="card__image" />
+                        <p className="card__heading">Hyper Local Delivery:</p>
                     </div>
                     <div className="card__1">
                         <img src="https://risehydroponics.in/wp-content/uploads/2017/11/icon-6.png" alt="" className="card__image" />
+                        <p className="card__heading">Beyond Seasons</p>
                     </div>
                     <div className="card__1">
                         <img src="https://risehydroponics.in/wp-content/uploads/2017/11/icon-4.png" alt="" className="card__image" />
+                        <p className="card__heading">Better Output</p>
                     </div>
                 </div>
             </div>

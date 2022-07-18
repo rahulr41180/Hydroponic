@@ -126,7 +126,7 @@ const Container = styled.div`
             width: fit-content;
         }
         .future__card {
-            border : 1px solid;
+            /* border : 1px solid; */
             width: 90%;
             padding : 1vw;
             margin : 1vw auto auto auto;
@@ -143,12 +143,16 @@ const Container = styled.div`
                     transition : 800ms;
                 }
                 .card__image {
-                    border : 1px solid;
+                    /* border : 1px solid; */
                     width: 40%;
                     height: 15vh;
                     /* text-align: center; */
                     margin: .2vw 7vw;
                     border-radius: .4vw;
+                }
+                .card__heading {
+                    margin : .2vw auto auto auto;
+                    width: fit-content;
                 }
             }
         }
