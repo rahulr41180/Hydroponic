@@ -123,13 +123,13 @@ export const IndoorSetupBodyContainer = () => {
 
                 <div className="future__card">
                     <div className="card__1">
-                        <img src="" alt="" className="card__image" />
+                        <img src="https://risehydroponics.in/wp-content/uploads/2017/11/icon-2.png" alt="" className="card__image" />
                     </div>
                     <div className="card__1">
-                        <img src="" alt="" className="card__image" />
+                        <img src="https://risehydroponics.in/wp-content/uploads/2017/11/icon-6.png" alt="" className="card__image" />
                     </div>
                     <div className="card__1">
-                        <img src="" alt="" className="card__image" />
+                        <img src="https://risehydroponics.in/wp-content/uploads/2017/11/icon-4.png" alt="" className="card__image" />
                     </div>
                 </div>
             </div>
